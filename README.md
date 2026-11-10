@@ -5,7 +5,7 @@ ad slots. A static site: no server, no build step. Hosted free on GitHub Pages a
 
 | File | What it is |
 |---|---|
-| `index.html`, `app.js` | the lab: camera or photo, detect and count, edges, colour measure, cartoon, histogram |
+| `index.html`, `app.js` | the lab: camera or photo; tools: detect & count (with CSV log), privacy blur, motion map, QR scanner, colour palette, colour measure, histogram, edges, filters, cartoon; record clip |
 | `guide.html`, `about.html`, `privacy.html` | content pages (AdSense reviews these; a privacy policy is required) |
 | `style.css` | shared styles (light and dark) |
 | `config.js` | **your AdSense publisher ID goes here** |
